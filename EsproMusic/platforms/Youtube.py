@@ -10,7 +10,7 @@ from EsproMusic.utils.formatters import time_to_seconds
 import aiohttp
 from EsproMusic import LOGGER
 
-API_URL = "https://shrutibots.site"
+API_URL = "http://key.shrutibots.site"
 DOWNLOAD_DIR = "downloads"
 
 
