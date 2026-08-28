@@ -9,7 +9,7 @@ from py_yt import VideosSearch, Playlist
 import aiohttp
 
 API_URL = os.environ.get("API_URL", "https://api.shrutibots.site")
-API_KEY = os.environ.get("API_KEY", "ShrutiBotstlO9Aq0rtFRFNiOiw4kS") 
+API_KEY = os.environ.get("API_KEY", "ShrutiBotsOKChMnKPT8mJA5xKDo1e") 
 DOWNLOAD_DIR = "downloads"
 
 
