@@ -7,6 +7,7 @@ ffmpeg-python
 gitpython
 hachoir
 heroku3
+Six 
 httpx==0.28.1
 motor
 pillow
@@ -24,4 +25,4 @@ unidecode
 yt-dlp
 youtube-search
 youtube-search-python
-py_yt_search 
+py_yt_search
